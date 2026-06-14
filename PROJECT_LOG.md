@@ -115,7 +115,7 @@ Complete the Gemini AI integration for GNN geometric anomaly explanations. When 
 ##### `f:\Varroc\.env` *(created)*
 ```
 EUREKA_API_KEY=eureka-dev-key-change-me
-GEMINI_API_KEY=AIzaSyAb8RN6JIIBh9h6NyO88OgKneLWXexLyGsiNtUdLsVhpCs0x4Yw
+GEMINI_API_KEY=(what ever is ur api key )
 ```
 
 ##### `f:\Varroc\start_backend.ps1`
